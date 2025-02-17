@@ -1,0 +1,33 @@
+body {
+    background-color: #BDBDBD
+}
+h1{
+    color: white;
+    font-size: 50px;
+    
+}
+img{
+    border: 3px solid white;
+    width: 200px;
+    height: 130px;
+    margin: 10px;
+    border-radius: 20px;
+}
+p{
+    background-color:white;
+    width: 600px;
+}
+footer{
+    text-align: center;
+    margin: 10px;
+    font-size: 10px;
+    color: grey;
+}
+.underline {
+    text-decoration: underline;
+}
+nav{
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+}

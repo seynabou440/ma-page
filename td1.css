@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    background-color: grey;
+    color: white;
+    width: 100%;
+    
+}
+h2{
+    border: solid 3px ;
+    color: red;
+    width: 500px;
+}
+div{
+    text-align: center;
+    border: solid  2px;
+}
